@@ -122,7 +122,7 @@ class txtaud:
             s.aud_path()
             s.spch()
     def mainput(self):
-        tprint("Welcome")
+        tprint("Export Txt\n From  Img")
         res=input(f"1. Image to Audio\n2. Image To Text\n\nSelect: ")
         if res == '1':
             s.aud()
