@@ -37,7 +37,7 @@
     <li>
       <a href="#export-text-from-image">Export Text From Image </a>
       <ul>
-        <li><a href="#built-with">Read Text From Image</a></li>
+        <li><a href="#export-text-from-image">Read Text From Image</a></li>
       </ul>
     </li>
     <li>
